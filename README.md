@@ -1,1 +1,1 @@
-# SecretSanta-android
+# Secret Santa Android
